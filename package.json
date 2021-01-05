@@ -14,7 +14,7 @@
     "pack:app2": "cd subApps/app2 && yarn build"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "single-spa": "^5.1.0",
     "url-polyfill": "^1.1.8",
